@@ -7,3 +7,13 @@
         font-family: 'Aachen';
         src: url('https://cdn.jsdelivr.net/gh/Mahmoud-ab/fonts-cdn@main/ae_AlHor.ttf') format('truetype');
     }
+
+
+.header-title-en {
+ font-family: Sakana !important;
+  color: #99642C !important;
+}
+.header-title-ar {
+  font-family: Aachen !important;
+  color: #99642C !important;
+}
