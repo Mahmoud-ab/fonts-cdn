@@ -7,13 +7,12 @@
         font-family: 'ae_AlHor';
         src: url('https://cdn.jsdelivr.net/gh/Mahmoud-ab/fonts-cdn@main/ae_AlHor.ttf') format('truetype');
     }
-
-
 .header-title-en {
  font-family: Sakana !important;
   color: #99642C !important;
 }
+
 .header-title-ar {
-  font-family: ae_AlHor !important;
+  font-family: ae_AlHor;
   color: #99642C !important;
 }
